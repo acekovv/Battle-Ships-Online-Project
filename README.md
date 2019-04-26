@@ -49,12 +49,12 @@ $ connect --username (example: connect tosho)
 
 # извеждане на възможните команди
 
-menu> list-games
+list-games
 ---GAMES LIST---
 Game: Ivan | opponent:  | Players in the game: 1/2
 Game: Gosho | opponent: Pesho | Players in the game: 2/2
 
-menu> join-game Ivan
+join-game Ivan
 Game joined
 ```
 -	Въвеждане на ход
@@ -90,6 +90,6 @@ H |_|_|X|X|X|_|_|X|_|_|
 I |_|_|_|_|_|_|_|X|_|_|
 J |_|_|_|_|_|_|_|X|_|_|
 
-gosho's last turn: D9
+enemy's last turn: D9
 Enter your turn:
 ```
