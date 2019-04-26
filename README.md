@@ -35,7 +35,7 @@ $ connect username (example: connect Ivan)
 # Извеждане на възможните команди
 $ help
 Available commands:
-	start-game <game-name>
+	start-game
 	join-game game-name
 	join-game //присъединяване към случайна игра.
 	disconnect
